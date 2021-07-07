@@ -2,7 +2,7 @@ import datetime
 import time
 import os
 
-def relogio():
+def horario():
         while True:
              now = datetime.datetime.now()
              horas = now.strftime("%H:%M")

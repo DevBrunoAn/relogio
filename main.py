@@ -1,5 +1,5 @@
 from datetime import datetime
 from time import time
-import timer 
+import relogio 
 
-timer.relogio()
+relogio.horario()
